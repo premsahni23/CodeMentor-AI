@@ -1,0 +1,10 @@
+# Runtime and local secrets
+backend/.env
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+outputs/
+work/
+__pycache__/
+.pytest_cache/
+*.pyc
